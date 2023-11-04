@@ -6,4 +6,4 @@ in questo repository sono presenti gli esempi in codice scritti durante le lezio
 * [02 - Advanced JavaScript](https://github.com/React-Masterclass/examples/tree/main/02-advaced-javascript)
 * [03 - Intro React e gerarchia tra componenenti](https://github.com/React-Masterclass/examples/tree/main/03-Intro-React-JSX-gerarchia-tra-componenenti)
 * [04 - React styling e React Forms](./04-React-styling-Form-basics/)
-
+* [05 - Components lifecycle, API requests e Custom Hooks](./05-Component-lifecycle-Request-API/)
